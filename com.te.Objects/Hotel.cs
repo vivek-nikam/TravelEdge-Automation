@@ -944,7 +944,7 @@ namespace ADX_Regression.Objects
         //Method to Shortlist the Hotels
         public void ShortlistHotel(ExtentTest test)
         {
-            Shortlist2.Click();
+            Shortlist1.Click();
             Thread.Sleep(2000);
             //string shortlistedHotel = Shortlist1_HotelName.Text;
             Shortlist1_HotelName.Click();

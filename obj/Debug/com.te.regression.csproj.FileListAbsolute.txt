@@ -65,6 +65,7 @@ D:\ADX_Regression\ADX_Regression\bin\Debug\xunit.abstractions.xml
 D:\ADX_Regression\ADX_Regression\bin\Debug\xunit.assert.xml
 D:\ADX_Regression\ADX_Regression\bin\Debug\xunit.core.xml
 D:\ADX_Regression\ADX_Regression\bin\Debug\xunit.execution.desktop.xml
+D:\ADX_Regression\ADX_Regression\obj\Debug\com.te.regression.csprojResolveAssemblyReference.cache
 D:\ADX_Regression\ADX_Regression\obj\Debug\com.te.regression.csproj.CoreCompileInputs.cache
 D:\ADX_Regression\ADX_Regression\obj\Debug\ADX_Regression.dll
 D:\ADX_Regression\ADX_Regression\obj\Debug\ADX_Regression.pdb
